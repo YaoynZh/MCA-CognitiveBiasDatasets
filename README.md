@@ -3,7 +3,7 @@ This repository contains three collections of logical reasoning questions source
 
 ## SHS
 
-The **SHS** is sourced from the official website of the New South Wales Government Education Department ([NSW 2024 SHS](https://se-practice.au.insights.janison.com/pages/shs.)). It is designed for high school placement tests and focuses on assessing various thinking skills. The dataset specifically includes questions from the **Thinking Skills** section of the SHS test, which is one of the four sections of the exam, alongside `Reading`, `Mathematical Reasoning`, and `Writing`.
+The **SHS** is sourced from the official website of the New South Wales Government Education Department ([NSW 2024 SHS](https://se-practice.au.insights.janison.com/pages/shs)). It is designed for high school placement tests and focuses on assessing various thinking skills. The dataset specifically includes questions from the **Thinking Skills** section of the SHS test, which is one of the four sections of the exam, alongside `Reading`, `Mathematical Reasoning`, and `Writing`.
 
 The dataset consists of **97 multiple-choice questions**. Each question presents information followed by four possible options for selection. For clarity and consistency, questions related to geometric reasoning were removed, focusing solely on the core reasoning aspects and eliminating potential errors caused by multimodal data (e.g., mixed images and text).
 
